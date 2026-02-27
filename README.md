@@ -1,19 +1,25 @@
-🌐 Portfolio Website
+Portfolio Website 🌐
 
-This repository contains the source code for my personal portfolio website, built using HTML. It showcases my projects, technical skills, and experience as a Data Analyst & Computer Science student, providing a professional presentation of my work.
+Live Site: https://solidx74.github.io/KareebSadab.github.io/
+
+This repository contains the source code for my personal portfolio website, built with HTML. It presents my projects, technical skills, and experience as a Data Analyst & Computer Science student, offering a professional showcase of my work.
+
+👤 Author
+
+Kareeb Sadab
+📧 Email: kareebsadab@gmail.com
 
 🚀 Features
 
-Fully responsive and clean design for all devices
+Responsive & Clean Design – Optimized for desktops, tablets, and mobile devices.
 
-Project showcase with GitHub links and descriptions
+Project Showcase – Detailed descriptions with GitHub links for each project.
 
-Skills overview: SQL • Python • Tableau • Power BI • HTML • CSS • JavaScript • MySQL
+Skills Overview – SQL • Python • Tableau • Power BI • HTML • CSS • JavaScript • MySQL.
 
-Contact information and social media integration
+Contact & Social Media Integration – Easy for recruiters or collaborators to reach out.
 
-Organized structure for assets, images, and reusable components
-
+Organized Structure – Assets, images, and reusable components separated for maintainability.
 
 📂 Project Structure
 Portfolio-Website/
@@ -25,8 +31,14 @@ Portfolio-Website/
 ├── index.html     # Main homepage
 ├── LICENSE        # License details
 └── README.md      # Project documentation
-
-
 🎯 Purpose
 
-The portfolio serves as a professional showcase of my technical expertise and data projects, including work completed using Tableau, Python, MySQL, and Microsoft SQL Server. It is designed to highlight my practical experience and suitability for internships or data-focused roles.
+This portfolio serves as a professional demonstration of my technical expertise and data projects, including practical experience with:
+
+Tableau dashboards and data visualizations
+
+Python programming for data analysis
+
+Database management using MySQL and Microsoft SQL Server
+
+It is designed to highlight my capabilities and make a strong impression for internships or data-focused roles.
