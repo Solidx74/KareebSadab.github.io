@@ -1,6 +1,6 @@
 Portfolio Website 🌐
 
-Live Site: https://solidx74.github.io/KareebSadab.github.io/
+Live Site: https://solidx74.github.io/ksda.github.io/
 
 This repository contains the source code for my personal portfolio website, built with HTML. It presents my projects, technical skills, and experience as a Data Analyst & Computer Science student, offering a professional showcase of my work.
 
